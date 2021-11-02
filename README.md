@@ -15,7 +15,7 @@ But, if pressed, how would you **prove** it?
 
 ## Part I - Weather
 
-The task is to visualize the weather of 500+ random cities across the world of varying distance from the equator. To accomplish this, I utilized the citipy module, the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
+Visualized the weather of 500+ random cities across the world of varying distance from the equator. To accomplish this, I utilized the citipy module, the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 Created a series of scatter plots to showcase the following relationships:
 
